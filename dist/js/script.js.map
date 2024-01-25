@@ -1,0 +1,1 @@
+{"version":3,"file":"script.js","mappings":"AAAAA,SAASC,iBAAiB,oBAAoB,KAC1CC,QAAQC,IAAI,mBACZD,QAAQC,IAAI,QAAQ","sources":["webpack://food/./src/js/main.js"],"sourcesContent":["document.addEventListener('DOMContentLoaded', () => {\r\n    console.log('Hello, world!!!');\r\n    console.log('first');\r\n});"],"names":["document","addEventListener","console","log"],"sourceRoot":""}
