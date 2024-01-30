@@ -1,4 +1,4 @@
-Step 1: Create html/css
+Step 1: Create html/css (80% ready)
 
 Step 2: Create adaptation for phones
 
